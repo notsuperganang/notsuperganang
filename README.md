@@ -4,7 +4,7 @@
 
 ---
 
-**Selected 1 of 200 @ Telkom Digistar** • **Best Capstone Team @ DBS Foundation 2025** • **Semifinalist BI-OJK Hackathon 2025** • **AI Engineer Facilitator @ Dicoding IBM SkillsBuild**
+**Ex-Full-Stack Intern @ Telkom Indonesia (Digistar)** • **Best Capstone Team @ DBS Foundation 2025** • **Semifinalist BI-OJK Hackathon 2025** • **AI Engineer Facilitator @ Dicoding IBM SkillsBuild**
 
 📍 Banda Aceh, Indonesia | Open to Work Opportunities & Collaboration
 
