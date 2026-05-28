@@ -1,4 +1,4 @@
-<img align="left" src="asset/Driving Fast Car.gif">
+<img align="left" src="asset/Driving Fast Car.gif" width="280" style="padding-right: 20px">
 
 ### Hey!
 
@@ -17,8 +17,8 @@
 
 #### ⚡ Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notsuperganang&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/notsuperganang)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notsuperganang&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=a0a0a0)](https://github.com/notsuperganang)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notsuperganang&show_icons=true&theme=dark&hide_border=true)](https://github.com/notsuperganang)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notsuperganang&layout=compact&theme=dark&hide_border=true)](https://github.com/notsuperganang)
 
 #### 🌀 Projects
 
@@ -33,7 +33,6 @@
 | **Learning**       | Distributed systems, system design patterns.                                                                                                                                     |
 | **Stack**          | ![Python](https://img.shields.io/badge/Python-313131?style=flat&labelColor=545454&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-313131?style=flat&labelColor=545454&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-313131?style=flat&labelColor=545454&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-313131?style=flat&labelColor=545454&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-313131?style=flat&labelColor=545454&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313131?style=flat&labelColor=545454&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-313131?style=flat&labelColor=545454&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-313131?style=flat&labelColor=545454&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-313131?style=flat&labelColor=545454&logo=googlecloud&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-313131?style=flat&labelColor=545454&logo=linux&logoColor=white) |
 | **Connect**        | [LinkedIn](https://linkedin.com/in/ganang-setyo-hadi) / [Email](mailto:ganangsetyohadi@gmail.com) / [Portfolio](https://bit.ly/prtflioo)                                        |
-| **Fun fact**       | I run Arch Linux as my daily driver and have strong opinions about terminal tooling.                                                                                             |
 
 ---
 
