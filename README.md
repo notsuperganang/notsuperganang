@@ -10,25 +10,18 @@
 
 ---
 
-### 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nextjs,react,nodejs,laravel,postgres,docker,aws,gcp,linux,git)](https://skillicons.dev)
-
----
-
-### 📊 Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notsuperganang&show_icons=true&hide_border=true)](https://github.com/notsuperganang)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notsuperganang&layout=compact&hide_border=true)](https://github.com/notsuperganang)
-
----
-
 ### 🚀 Projects
 
 - [**ocr-v3-telkom**](https://github.com/notsuperganang/ocr-v3-telkom) — Full-stack OCR system for automated Telkom contract data extraction
 - [**sikupi**](https://github.com/notsuperganang/sikupi) — AI-powered coffee waste marketplace for circular economy in Banda Aceh
 - [**PURRPAL**](https://github.com/notsuperganang/PURRPAL) — AI cat health platform addressing veterinary access gaps in Indonesia
 - [**herbapedia**](https://github.com/notsuperganang/herbapedia) — Digital encyclopedia of Indonesia's traditional medicinal plants
+
+---
+
+### 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nextjs,react,nodejs,laravel,postgres,docker,aws,gcp,linux,git)](https://skillicons.dev)
 
 ---
 
