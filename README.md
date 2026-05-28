@@ -28,3 +28,7 @@
 ### 📬 Connect
 
 [LinkedIn](https://linkedin.com/in/ganang-setyo-hadi) / [Email](mailto:ganangsetyohadi@gmail.com) / [Portfolio](https://bit.ly/prtflioo)
+
+---
+
+> btw, I use Arch.
