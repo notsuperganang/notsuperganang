@@ -27,7 +27,9 @@
 
 ### 📬 Connect
 
-[LinkedIn](https://linkedin.com/in/ganang-setyo-hadi) / [Email](mailto:ganangsetyohadi@gmail.com) / [Portfolio](https://bit.ly/prtflioo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ganang--setyo--hadi-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganang-setyo-hadi)
+[![Email](https://img.shields.io/badge/Email-ganangsetyohadi%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:ganangsetyohadi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bit.ly%2Fprtflioo-000000?style=flat&logo=firefox&logoColor=white)](https://bit.ly/prtflioo)
 
 ---
 
