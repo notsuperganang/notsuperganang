@@ -21,7 +21,7 @@
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nextjs,react,nodejs,laravel,fastapi,postgres,docker,aws,gcp,linux,git,flutter,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,python,nextjs,react,rust,nodejs,fastapi,tensorflow,postgres,docker,aws,gcp,linux,git,flutter)](https://skillicons.dev)
 
 ---
 
