@@ -29,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ganang--setyo--hadi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganang-setyo-hadi)
 [![Email](https://img.shields.io/badge/Email-ganangsetyohadi%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganangsetyohadi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bit.ly%2Fprtflioo-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://bit.ly/prtflioo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bit.ly%2Fprtflioo-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://drive.google.com/file/d/1KXSJVqDozPbzR0GPGgAJAyPKb-NNwNH6/view?usp=sharing)
 
 ---
 
