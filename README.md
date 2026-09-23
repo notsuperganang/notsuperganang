@@ -4,7 +4,7 @@
 
 ---
 
-**Ex-Full-Stack Intern @ Telkom Indonesia (Digistar)** • **1st Place @ UTU Awards 2025** • **Best Capstone Team @ DBS Foundation 2025** • **Ex-AI Engineer Facilitator @ Dicoding x IBM SkillsBuild**
+**Full-Stack Engineer @ Radio Republik Indonesia (RRI)** • **Ex-Full-Stack Intern @ Telkom Indonesia (Digistar)** • **1st Place @ UTU Awards 2025** • **Best Capstone Team @ DBS Foundation 2025**
 
 📍 Banda Aceh, Indonesia | Open to Work Opportunities & Collaboration
 
