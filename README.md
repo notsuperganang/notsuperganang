@@ -33,4 +33,10 @@
 
 ---
 
+### 📈 Contributions
+
+![Contribution graph](asset/contributions.svg)
+
+---
+
 > I use Arch btw.
