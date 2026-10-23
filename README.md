@@ -15,7 +15,8 @@
 - [**ocr-v3-telkom**](https://github.com/notsuperganang/ocr-v3-telkom) — Full-stack OCR system for automated Telkom contract data extraction
 - [**sikupi**](https://github.com/notsuperganang/sikupi) — AI-powered coffee waste marketplace for circular economy in Banda Aceh
 - [**PURRPAL**](https://github.com/notsuperganang/PURRPAL) — AI cat health platform addressing veterinary access gaps in Indonesia
-- [**herbapedia**](https://github.com/notsuperganang/herbapedia) — Digital encyclopedia of Indonesia's traditional medicinal plants
+- [**lab-gos-management-system**](https://github.com/notsuperganang/lab-gos-management-system) — Full-stack lab management system for equipment lending, reservations, and tracking
+- [**dotfiles**](https://github.com/notsuperganang/dotfiles) — My Arch + Hyprland setup with a customized Quickshell desktop
 
 ---
 
@@ -35,7 +36,7 @@
 
 ### 📈 Contributions
 
-![Contribution graph](asset/contributions.svg)
+<img src="asset/contributions.svg" alt="Contribution graph" width="100%">
 
 ---
 
