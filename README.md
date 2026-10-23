@@ -1,3 +1,5 @@
+<img src="asset/mieayam.svg" alt="ASCII bowl of mie ayam with chopsticks lifting noodles" align="right" width="300">
+
 ## 👋 Hi, I'm Ganang Setyo Hadi
 
 **Full-Stack & AI Engineer | Building real systems end-to-end**
