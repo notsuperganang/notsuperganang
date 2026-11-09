@@ -384,6 +384,7 @@ rect { rx: 2px; }
 <rect class="l0" x="746" y="90" width="11" height="11"><title>2026-11-06</title></rect>
 <rect class="l1" x="746" y="104" width="11" height="11"><title>2026-11-07</title></rect>
 <rect class="l0" x="760" y="20" width="11" height="11"><title>2026-11-08</title></rect>
+<rect class="l0" x="760" y="34" width="11" height="11"><title>2026-11-09</title></rect>
 <text x="0" y="43">Mon</text>
 <text x="0" y="71">Wed</text>
 <text x="0" y="99">Fri</text>
